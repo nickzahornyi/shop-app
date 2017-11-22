@@ -1,0 +1,186 @@
+{
+  "items": [
+    {
+      "id": "11",
+      "category": "computers",
+      "img": "images/computers/apple-macbook_2016.jpg",
+      "name": "Apple MacBook 12",
+      "price": "1232"
+    },
+    {
+      "id": "12",
+      "category": "computers",
+      "img": "images/computers/apple-macbook_air_13.jpg",
+      "name": "Apple MacBook Air 13",
+      "price": "1134"
+    },
+    {
+      "id": "13",
+      "category": "computers",
+      "img": "images/computers/macbook_pro_2016-15.jpg",
+      "name": "Apple MacBook Pro 15",
+      "price": "1543"
+    },
+    {
+      "id": "14",
+      "category": "computers",
+      "img": "images/computers/apple-imac-imac_215.jpg",
+      "name": "Apple iMac 21,5″ Retina 4K",
+      "price": "2156"
+    },
+    {
+      "id": "15",
+      "category": "computers",
+      "img": "images/computers/MGEQ2G_image_02.jpg",
+      "name": "Apple Mac mini",
+      "price": "1123"
+    },
+    {
+      "id": "21",
+      "category": "phones",
+      "name": "Apple iPhone 8",
+      "img": "images/phones/apple-iphone_8.jpg",
+      "price": "950"
+    },
+    {
+      "id": "22",
+      "category": "phones",
+      "name": "Apple iPhone 8 Plus",
+      "img": "images/phones/apple-iphone_8_plus.jpg",
+      "price": "1063"
+    },
+    {
+      "id": "23",
+      "category": "phones",
+      "name": "Apple iPhone X",
+      "img": "images/phones/apple-iphone_x.jpg",
+      "price": "1293"
+    },
+    {
+      "id": "24",
+      "category": "phones",
+      "name": "Apple iPhone 7",
+      "img": "images/phones/iphone_7_black.jpg",
+      "price": "796"
+    },
+    {
+      "id": "25",
+      "category": "phones",
+      "name": "Apple iPhone SE",
+      "img": "images/phones/apple-iphone_se.jpg",
+      "price": "612"
+    },
+    {
+      "id": "26",
+      "category": "phones",
+      "name": "Apple iPhone 6s",
+      "img": "images/phones/6s.jpg",
+      "price": "924"
+    },
+    {
+      "id": "27",
+      "category": "phones",
+      "name": "Apple iPhone 6s Plus",
+      "img": "images/phones/MKQG2_image_01.jpg",
+      "price": "965"
+    },
+    {
+      "id": "28",
+      "category": "phones",
+      "name": "Apple iPhone 6",
+      "img": "images/phones/6.jpg",
+      "price": "759"
+    },
+    {
+      "id": "31",
+      "category": "tablets",
+      "name": "Apple iPad",
+      "img": "images/tablets/1.jpg",
+      "price": "765"
+    },
+    {
+      "id": "32",
+      "category": "tablets",
+      "name": "Apple iPad mini 3",
+      "img": "images/tablets/2.jpg",
+      "price": "398"
+    },
+    {
+      "id": "33",
+      "category": "tablets",
+      "name": "Apple iPad Pro 9,7",
+      "img": "images/tablets/3.jpg",
+      "price": "867"
+    },
+    {
+      "id": "34",
+      "category": "tablets",
+      "name": "Apple iPad Pro 10,5",
+      "img": "images/tablets/4.jpg",
+      "price": "806"
+    },
+    {
+      "id": "35",
+      "category": "tablets",
+      "name": "Apple iPad Pro 12,9",
+      "img": "images/tablets/5.jpg",
+      "price": "1038"
+    },
+    {
+      "id": "36",
+      "category": "tablets",
+      "name": "Apple iPad mini 4",
+      "img": "images/tablets/6.jpg",
+      "price": "784"
+    },
+    {
+      "id": "37",
+      "category": "tablets",
+      "name": "Apple iPad Air 2",
+      "img": "images/tablets/7.jpg",
+      "price": "655"
+    },
+    {
+      "id": "41",
+      "category": "watches",
+      "name": "Apple Watch Series 3",
+      "img": "images/watches/apple_watch-42mm.jpg",
+      "price": "612"
+    },
+    {
+      "id": "42",
+      "category": "watches",
+      "name": "Apple Watch Series 2",
+      "img": "images/watches/42mm-aluminium-mnpl2.jpg",
+      "price": "468"
+    },
+    {
+      "id": "43",
+      "category": "watches",
+      "name": "Apple Watch Nike+",
+      "img": "images/watches/nike-38mm-mp082_alsg.jpg",
+      "price": "476"
+    },
+    {
+      "id": "51",
+      "category": "players",
+      "name": "Apple iPod touch 6G",
+      "img": "images/players/1.jpg",
+      "price": "319"
+    },
+    {
+      "id": "52",
+      "category": "players",
+      "name": "Apple iPod nano 8G",
+      "img": "images/players/2.jpg",
+      "price": "236"
+    },
+    {
+      "id": "53",
+      "category": "players",
+      "name": "Apple iPod shuffle",
+      "img": "images/players/3.jpg",
+      "price": "81"
+    }
+  ]
+}
