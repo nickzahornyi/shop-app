@@ -28,10 +28,9 @@ class App extends Component {
         itemsInCart={this.state.itemsInCart}
       />
 
-      {this.state.cart ? (
+      <List data={this.state.data} view={this.state.view} />
+      {this.state.cart && (
         <Cart getItemsCount={this.handleGetItemsCount} view={this.state.view} />
-      ) : (
-        <List data={this.state.data} view={this.state.view} />
       )}
     </div>
   );
